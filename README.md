@@ -8,17 +8,16 @@ This was created in Year 1, Semester 2, of my university's CM1010 Introduction t
 
 # Getting Started
 
-In VS Code, use [Live Server by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to run the `.html` file.
+In VS Code, use [Live Server by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to run the `.html` file:
 
 [![Screenshot of Live Server extension](https://github.com/user-attachments/assets/0a4e59b6-b14b-4952-835e-a68e459d42d6)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-Open VS Code's Command Palette (`CTRL` + `SHIFT` + `P` on Windows).
-
-Search for the following and open it:
+Open VS Code's Command Palette (`CTRL` + `SHIFT` + `P` on Windows),\
+search for the following and open it:
 
 [![Screenshot of VS Code's Command Palette](https://github.com/user-attachments/assets/31ca3cab-6be2-43fa-b778-6654d6aa7384)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-The music visualiser should run as intended.
+The music visualiser should run as intended:
 
 ![Screenshot of startup screen](https://github.com/user-attachments/assets/13c42bfa-878a-4855-bfad-a79abad123fd)
 
@@ -28,7 +27,8 @@ Use the keyboard as per Hotkeys Guide:
 
 ![Screenshot of Hotkeys Guide](https://github.com/user-attachments/assets/a945fb74-1a61-4f92-8cdf-80a28ae41794)
 
-Click on the `hamburger menu icon` to reveal other visualisers, and use the keyboard to select:
+Click on the `hamburger menu icon` to reveal other visualisers,\
+and use the keyboard to select:
 
 ![Before opening hamburger menu icon](https://github.com/user-attachments/assets/f1caf159-3759-4136-a2c9-afe53228bc4a)
 
@@ -42,12 +42,22 @@ Visualisers have their own specific settings that can be changed:
 
 # Preview
 
+Spectrum visualiser:
+
 ![Spectrum visualiser](https://github.com/user-attachments/assets/5fa431bf-b6f3-4b0d-9463-761cdc6bafae)
+
+Wave Pattern visualiser:
 
 ![Wave Pattern visualiser](https://github.com/user-attachments/assets/b3a8c438-a65e-4576-b571-82b0c9e61351)
 
+Needles visualiser:
+
 ![Needles visualiser](https://github.com/user-attachments/assets/d0665347-7e18-44b6-9430-d409c542627c)
 
+Frequency Lines visualiser:
+
 ![Frequency Lines visualiser](https://github.com/user-attachments/assets/1fb358ab-b89e-434d-b55f-a927881173da)
+
+Frequency Beats visualiser:
 
 ![Frequency Beats visualiser](https://github.com/user-attachments/assets/8733d48c-4d44-49bf-9927-520a39199942)
