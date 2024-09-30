@@ -20,34 +20,34 @@ Search for the following and open it:
 
 The music visualiser should run as intended.
 
-![Screenshot of startup screen](image.png)
+![Screenshot of startup screen](https://github.com/user-attachments/assets/13c42bfa-878a-4855-bfad-a79abad123fd)
 
 # Controls and Settings
 
 Use the keyboard as per Hotkeys Guide:
 
-![Screenshot of Hotkeys Guide](image-3.png)
+![Screenshot of Hotkeys Guide](https://github.com/user-attachments/assets/a945fb74-1a61-4f92-8cdf-80a28ae41794)
 
 Click on the `hamburger menu icon` to reveal other visualisers, and use the keyboard to select:
 
-![Before opening hamburger menu icon](image-2.png)
+![Before opening hamburger menu icon](https://github.com/user-attachments/assets/f1caf159-3759-4136-a2c9-afe53228bc4a)
 
-![After opening hamburger menu icon](image-1.png)
+![After opening hamburger menu icon](https://github.com/user-attachments/assets/101fb311-f5ac-4368-895d-42f293f73f5b)
 
 Visualisers have their own specific settings that can be changed:
 
-![Settings for Spectrum visualiser](image-4.png) ![Settings for Frequency Lines visualiser](image-6.png)
+![Settings for Spectrum visualiser](https://github.com/user-attachments/assets/baf910c3-7643-4c5a-9e3f-71aa9a32dabc) ![Settings for Frequency Lines visualiser](https://github.com/user-attachments/assets/bffe54f7-17ef-4461-90e1-4f7748cbb28c)
 
-![Settings for Wave Pattern visualiser](image-5.png) ![Settings for Frequency Beats visualiser](image-7.png)
+![Settings for Wave Pattern visualiser](https://github.com/user-attachments/assets/e3a8dbd1-efec-4416-99e6-4dcecc83777b) ![Settings for Frequency Beats visualiser](https://github.com/user-attachments/assets/b60f8b24-c74c-4394-b58b-6daab2578bbe)
 
 # Preview
 
-![Spectrum visualiser](image-8.png)
+![Spectrum visualiser](https://github.com/user-attachments/assets/5fa431bf-b6f3-4b0d-9463-761cdc6bafae)
 
-![Wave Pattern visualiser](image-9.png)
+![Wave Pattern visualiser](https://github.com/user-attachments/assets/b3a8c438-a65e-4576-b571-82b0c9e61351)
 
-![Needles visualiser](image-10.png)
+![Needles visualiser](https://github.com/user-attachments/assets/d0665347-7e18-44b6-9430-d409c542627c)
 
-![Frequency Lines visualiser](image-11.png)
+![Frequency Lines visualiser](https://github.com/user-attachments/assets/1fb358ab-b89e-434d-b55f-a927881173da)
 
-![Frequency Beats visualiser](image-12.png)
+![Frequency Beats visualiser](https://github.com/user-attachments/assets/8733d48c-4d44-49bf-9927-520a39199942)
